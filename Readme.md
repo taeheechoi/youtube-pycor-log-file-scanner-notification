@@ -15,6 +15,7 @@ The intention of this project is to help developers to search specific words or 
 ### Prerequisites
 
 - Python 3.10
+- Python Packages: requests (2.28.1), Python-dotenv (0.20.0)
 - VS Code
 
 ### Installation
