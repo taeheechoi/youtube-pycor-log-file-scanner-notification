@@ -1,0 +1,1 @@
+C:\project-folder\venv\Scripts\python.exe main.py
