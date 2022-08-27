@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
     search_results = word_search_from_source()
     message = '\n'.join([f'Word: {result[0]} @ {result[1]}' for result in search_results])  # word: where are you? @ source\test1.log
-    logging.info(f'Message:\n{message}')
+    logging.info(f'Message: {message}')
 
     if (message):
         notification = Notification()
