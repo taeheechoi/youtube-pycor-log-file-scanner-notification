@@ -29,13 +29,17 @@ The intention of this project is to help developers to search specific words or 
    python -m venv venv
    venv\scripts\activate
    ```
-3. Rename .env-example to .env and configure it
+3. Install packages
+   ```sh
+   pip install -r requirements.txt
+   ```
+4. Rename .env-example to .env and configure it
    ```
    WEBHOOK_URL=Your webhook url
    ```
-4. Create log folder for logging results
+5. Create log folder for logging results
 
-5. Update run.bat
+6. Update run.bat
    ```sh
    C:\project-folder\venv\Scripts\python.exe main.py
    ```

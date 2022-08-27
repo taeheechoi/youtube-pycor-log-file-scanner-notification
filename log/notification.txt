@@ -1,8 +1,0 @@
-2022-08-27 08:58:45,343 Error: Sending Have a good day! has been failed due to Bad Request
-2022-08-27 09:33:01,104 Message:
-Word: where are you? @ source\test1.log
-Word: where are you? @ source\test4.log
-Word: pycor @ source\test5.log
-2022-08-27 09:33:01,430 Error: Sending Word: where are you? @ source\test1.log
-Word: where are you? @ source\test4.log
-Word: pycor @ source\test5.log has been failed due to Bad Request
